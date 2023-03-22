@@ -1,4 +1,4 @@
-### Hi there Im starguys || Add || Kangmin Kim 👋
+### Hi there Im Kangmin Kim 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starguys&show_icons=true&theme=merko)
